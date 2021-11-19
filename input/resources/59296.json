@@ -1,0 +1,1 @@
+{"resourceType":"ValueSet","id":"59296","date":"2020-09-11T00:00:00+02:00","copyright":"The International Union of Pure and Applied Chemistry (IUPAC) and the International Federation of Clinical Chemistry and laboratory medicine (IFCC)","compose":{"include":[{"system":"https://www.npu-terminology.org/","concept":[{"code":"NPU59296"},{"code":"NPU58477"},{"code":"NPU59295"}]}]}}
